@@ -2,6 +2,6 @@
 
 ## Both people:
 
-_delete this line and write here_
+Gregor: I deleted this line. Blah blah blah.
 
 Both change above this 👆
