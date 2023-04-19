@@ -2,6 +2,6 @@
 
 ## Both people:
 
-_delete this line and write here_
+Max Rules
 
 Both change above this 👆
