@@ -10,7 +10,7 @@ Remember that you can use resources online such as the [GitHub Git cheat sheet](
 
 - Both people in the pair pull down the repo.
 - Each make a new branch.
-- Decide who is Person 1 and 2, and write a sentence about your favorite moment of SOC so far in `task-1.md`.
+- Decide who is Person 1 , 2 and 3 and write a sentence about your favorite moment of SOC so far in `task-1.md`.
 - Add and commit your changes to your branch, and push the branch up to GitHub
 - On GitHub, create a pull request for each of your branches
 - Look through the pull request and see whats changed, leave some comments.
