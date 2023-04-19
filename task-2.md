@@ -2,6 +2,6 @@
 
 ## Both people:
 
-_delete this line and write here_
+Person 3 changed it here
 
 Both change above this 👆
